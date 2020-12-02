@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1606936115 source:c:\users\jeann\documents\repositorioscc\unidade1\atividade m3\atividade3-2\atividad3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+
+1606936216 source:c:\users\jeann\documents\repositorioscc\unidade1\atividade m3\atividade3\atividad3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<string.h>
+
